@@ -1,4 +1,4 @@
-
+Matlab software is used inorder to simulate the practical channel environment like Rayeligh and Ricean PDF functions which are used to model basic multipath propogation channels where Ricean model is used to model the mobile communication channels whereas Rayeligh is used for satellite communications 
 
 
 
