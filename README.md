@@ -1,3 +1,21 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Channelestimation
 
 % PARAMETERS FOR TWO DIFFERENT CHANNELS OBJECTS THAT IS CONSIDERED
